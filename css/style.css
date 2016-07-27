@@ -1,0 +1,15 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+	background-image: url('///C:/Users/Payton/Documents/Bitwise/final/img/stars.jpg');
+}
+.container{
+	height: 1000px;
+	width: 1000px;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	background-color: #b9b9b9;
+	margin: 0 auto;
+}
